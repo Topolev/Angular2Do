@@ -1,0 +1,11 @@
+#todos{
+    padding-top:20px;
+}
+
+.wrap-item {
+    border-top: 1px solid #efefef;
+    display:block;
+}
+.wrap-item:last-child{
+    border-bottom:1px solid #efefef;
+}

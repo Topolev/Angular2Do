@@ -1,0 +1,16 @@
+.todo{
+    padding: 10px 15px 10px 0;
+
+    display:block;
+}
+
+.todo div button{
+    background: red;
+    border-color: red;
+    color:#fff;
+    float:right;
+}
+
+.done{
+    text-decoration: line-through;
+}
